@@ -1,0 +1,9 @@
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\bin\Debug\tp2 partie 2 dev.net.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\bin\Debug\tp2 partie 2 dev.net.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2_partie_2_dev.net.Form1.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2_partie_2_dev.net.Form2.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2_partie_2_dev.net.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2 partie 2 dev.net.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2 partie 2 dev.net.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2 partie 2 dev.net.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\tp2 partie 2 dev.net\tp2 partie 2 dev.net\obj\x86\Debug\tp2 partie 2 dev.net.csprojResolveAssemblyReference.cache
